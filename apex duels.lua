@@ -1,5 +1,3 @@
--- leaked by script haven https://discord.gg/xfwA9fNFMe
-
 local p = game.Players.LocalPlayer
 local rs = game:GetService("RunService")
 local uis = game:GetService("UserInputService")
